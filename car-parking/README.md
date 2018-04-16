@@ -1,6 +1,7 @@
 #Build Instructions
 
 Run the following script in terminal, from the project directory location.
+
 ./build_parking_lot.sh
 
 
