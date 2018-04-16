@@ -1,11 +1,12 @@
-#Build Instructions
+1. Build Instructions
 
 Run the following script in terminal, from the project directory location.
 
 ./build_parking_lot.sh
 
 
-#Running the project
+
+2. Running the project
 
 Run the following script in terminal, from the project directory location.
 
