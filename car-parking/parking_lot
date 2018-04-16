@@ -1,2 +1,2 @@
 #!/bin/sh
-java -jar car-parking-1.0.0.jar $1
+java -jar ./target/car-parking-1.0.0.jar $1
